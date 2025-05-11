@@ -198,12 +198,83 @@ def add_log():
 
 
 
-# ✅ API for Blocking Requests
+# Add after the existing imports
+BLOCKED_IPS_FILE = "blocked_ips.json"
+
+def save_blocked_ip(ip_data):
+    blocked_ips = load_json(BLOCKED_IPS_FILE)
+    # Ensure blocked_ips is a list
+    if not isinstance(blocked_ips, list):
+        blocked_ips = []
+    
+    blocked_ips.append({
+        **ip_data,
+        "timestamp": datetime.datetime.utcnow().isoformat()
+    })
+    save_json(BLOCKED_IPS_FILE, blocked_ips)
+
+def send_block_notification(ip_data):
+    sender_email = "threatdetectai@gmail.com"
+    sender_password = "ncisbzykghiaryzc"
+    receiver_email = "gichinga03@gmail.com"
+
+    subject = "🚫 IP Address Blocked"
+    body = (
+        f"An IP address has been blocked:\n\n"
+        f"IP Address: {ip_data.get('ip_address')}\n"
+        f"Process Name: {ip_data.get('process_name')}\n"
+        f"Reason: {ip_data.get('reason', 'Suspicious activity detected')}\n"
+        f"Timestamp: {ip_data.get('timestamp')}\n\n"
+        "This action was taken automatically by the threat detection system."
+    )
+
+    msg = MIMEMultipart()
+    msg["From"] = sender_email
+    msg["To"] = receiver_email
+    msg["Subject"] = subject
+    msg.attach(MIMEText(body, "plain"))
+
+    try:
+        with smtplib.SMTP("smtp.gmail.com", 587) as server:
+            server.starttls()
+            server.login(sender_email, sender_password)
+            server.sendmail(sender_email, receiver_email, msg.as_string())
+        print("[📧] Block notification email sent successfully!")
+    except Exception as e:
+        print(f"[⚠️] Failed to send block notification email: {e}")
+
+
 @app.route("/block_threat", methods=["POST"])
 def block_threat():
     data = request.json
-    socketio.emit("block_request", {"ip_address": data.get("ip_address"), "process_name": data.get("process_name")})
+    block_data = {
+        "ip_address": data.get("ip_address"),
+        "process_name": data.get("process_name"),
+        "reason": data.get("reason", "Suspicious activity detected")
+    }
+    
+    # Save blocked IP
+    save_blocked_ip(block_data)
+    
+    # Send notification
+    send_block_notification(block_data)
+    
+    # Emit socket event
+    socketio.emit("block_request", block_data)
     return jsonify({"message": "Blocking request sent to agent"}), 200
+
+# Add new endpoint to get blocked IPs
+@app.route("/api/blocked-ips", methods=["GET"])
+def get_blocked_ips():
+    try:
+        blocked_ips = load_json(BLOCKED_IPS_FILE)
+        # Ensure we always return an array
+        if not isinstance(blocked_ips, list):
+            blocked_ips = []
+        return jsonify(blocked_ips)
+    except Exception as e:
+        # Return empty array if there's an error
+        return jsonify([])
 
 
 
