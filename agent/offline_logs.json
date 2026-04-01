@@ -1,0 +1,4831 @@
+[
+    {
+        "timestamp": "02-04-2025 13:25",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:25",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:25",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:25",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:26",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:26",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:26",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:26",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:26",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:26",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:27",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:27",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:27",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:33",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:33",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:33",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:33",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:33",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:34",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:34",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:34",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:34",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:34",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:34",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:35",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:35",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:35",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:35",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:35",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:35",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:36",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:36",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:36",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:36",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:36",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:37",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:37",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:37",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:37",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:37",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:38",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:38",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:38",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:38",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:38",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:39",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:39",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:39",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:39",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:39",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:39",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:40",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:40",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:40",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:40",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:40",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:40",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:41",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:41",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:41",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:41",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:41",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:41",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:42",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:42",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:42",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:42",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:42",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:43",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:43",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:43",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:43",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:43",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:44",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:44",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:44",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:44",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:44",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:45",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:45",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:45",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:45",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:45",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:46",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:46",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:46",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:46",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:46",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:47",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:47",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:47",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:47",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:47",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:47",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:48",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:48",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:48",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:48",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:48",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:49",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:49",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:49",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:49",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:49",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:50",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:50",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:50",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:50",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:50",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:50",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:51",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:51",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:51",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:51",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:51",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:51",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:52",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:52",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:52",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:52",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:52",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:53",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:53",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:53",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:53",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:53",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:53",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:54",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:54",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:54",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:54",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:54",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:54",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:55",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:55",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:55",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:55",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:55",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:55",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:56",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:56",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:56",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:56",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:56",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:57",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:57",
+        "event_code": 4799,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "Administrators",
+            "Builtin",
+            "S-1-5-32-544",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x5adc",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:57",
+        "event_code": 4799,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "Administrators",
+            "Builtin",
+            "S-1-5-32-544",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x5adc",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:57",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:57",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:59",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:59",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:59",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:59",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:59",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 13:59",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:00",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:00",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:00",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:00",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:00",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:01",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:01",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:01",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:01",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:01",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:01",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:02",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "WDAGUtilityAccount",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-504",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x1960",
+            "C:\\Program Files\\osquery\\osqueryd\\osqueryd.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:02",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:02",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:02",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:02",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:03",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:03",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:03",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:03",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:03",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:03",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:04",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:04",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:04",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:04",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:04",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:04",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:05",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:05",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:05",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:05",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:05",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:06",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:06",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:06",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:06",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:06",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:07",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:07",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:07",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:07",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:07",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:07",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:08",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:08",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:08",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:08",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:08",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:08",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:09",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:10",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:11",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:11",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:11",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:11",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:11",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:12",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:12",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:12",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:12",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:12",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:13",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:13",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:13",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:13",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:13",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:14",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:14",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:14",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:14",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:14",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:14",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:15",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:15",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:15",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:15",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:15",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:15",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:16",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:16",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:16",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:16",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:16",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:16",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:17",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:17",
+        "event_code": 4672,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "SYSTEM",
+            "NT AUTHORITY",
+            "0x3e7",
+            "SeAssignPrimaryTokenPrivilege\r\n\t\t\tSeTcbPrivilege\r\n\t\t\tSeSecurityPrivilege\r\n\t\t\tSeTakeOwnershipPrivilege\r\n\t\t\tSeLoadDriverPrivilege\r\n\t\t\tSeBackupPrivilege\r\n\t\t\tSeRestorePrivilege\r\n\t\t\tSeDebugPrivilege\r\n\t\t\tSeAuditPrivilege\r\n\t\t\tSeSystemEnvironmentPrivilege\r\n\t\t\tSeImpersonatePrivilege\r\n\t\t\tSeDelegateSessionUserImpersonatePrivilege"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:17",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:18",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:18",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:18",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 14:58",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x1f3c",
+            "C:\\Windows\\System32\\LogonUI.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 17:23",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 20:13",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 20:13",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 20:13",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T07:47:01.9789394Z",
+            "8444"
+        ]
+    },
+    {
+        "timestamp": "02-04-2025 20:44",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-02T17:43:52.6637500Z",
+            "16232"
+        ]
+    },
+    {
+        "timestamp": "03-04-2025 07:48",
+        "event_code": 4798,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "gichi",
+            "gichinga03",
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "0x3a34",
+            "C:\\Windows\\System32\\svchost.exe"
+        ]
+    },
+    {
+        "timestamp": "03-04-2025 14:10",
+        "event_code": 5382,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-18",
+            "GICHINGA03$",
+            "WORKGROUP",
+            "0x3e7",
+            "NGC Local Accoount Logon Vault Resource Schema",
+            "{1d4350a3-330d-4af9-b3ff-a927a45998ac}",
+            "NGC Local Accoount Logon Vault Resource",
+            "0105000000000005150000005621A03B5B5382536101AD2CE9030000",
+            "",
+            "0",
+            "1168",
+            "2025-04-01T08:01:37.7630416Z",
+            "5092"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:09",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:10",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    },
+    {
+        "timestamp": "06-04-2025 21:11",
+        "event_code": 5379,
+        "provider_name": "Microsoft-Windows-Security-Auditing",
+        "computer_name": "GICHINGA03",
+        "message": [
+            "S-1-5-21-1000350038-1401049947-749535585-1001",
+            "gichi",
+            "GICHINGA03",
+            "0xcc4a9",
+            "MicrosoftAccount:user=gichinga03@gmail.com",
+            "0",
+            "1",
+            "%%8100",
+            "0",
+            "2025-04-04T10:13:12.4025720Z",
+            "16356"
+        ]
+    }
+]
